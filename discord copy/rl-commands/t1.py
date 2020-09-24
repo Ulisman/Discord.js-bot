@@ -3,8 +3,6 @@ import json
 import random
 import numpy as np
 import pandas as pd
-# try: import pandas
-# except Exception as e: print("GOT ERROR:",e) #må error logge på en veldig annerleder måte når man ikke runner scriptet selv
 
 won = 'You won: '
 lost = 'You lost: '
