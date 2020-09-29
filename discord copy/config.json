@@ -1,10 +1,10 @@
 {
 	"prefix": "!",
-    "token_main": "NzI4NjI1MDg1NDA0OTM4Mjgy.Xv9IqQ.4h7WiwXOI4QvnEr9yWBRyO2wMM4",
-    "token_roulette": "NzI5MDMxMzM4NTMwODMyNDQ2.XwDCJw.51wQ64z9wXmyb1jHt3STVVJQoos",
+    "token_main": "",
+    "token_roulette": "",
 	"meaning_of_life": 42,
 	"uri": "mongodb+srv://mongo1:mongo1@cluster0.gsyaz.mongodb.net/Test1?retryWrites=true&w=majority",
-	"passwords_array": ["please", "dont", "hack", "me"],
+	"passwords_array": '',
 	"secret_passcodes": {
 		"bank": 1234,
 		"home": 4321
